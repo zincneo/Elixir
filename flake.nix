@@ -29,6 +29,7 @@
               pkgs.beamMinimalPackages.erlang
               pkgs.beamMinimalPackages.rebar3
               pkgs.gitMinimal
+              pkgs.libiconv
             ];
           };
         }
